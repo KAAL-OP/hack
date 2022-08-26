@@ -55,7 +55,7 @@ echo " "
     read ch
    if [ $ch -eq 1 ];then
         cd $HOME
-        cd insta-hack
+        cd hack
         cd Ig_information_gathering
         bash start.sh
 
@@ -82,15 +82,15 @@ echo " "
     elif [ $ch -eq 5 ];then
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
-        rm -rf insta-hack
-        git clone https://github.com/KAAL-OP/insta-hack
-        cd insta-hack
+        rm -rf hack
+        git clone https://github.com/KAAL-OP/hack
+        cd hack
         bash insta-hack.sh
      
         exit
    elif [ $ch -eq 6 ];then 
         cd $HOME
-        rm -rf insta-hack
+        rm -rf hack
         
         exit
    elif [ $ch -eq 7 ];then
