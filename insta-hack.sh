@@ -62,7 +62,7 @@ echo " "
         exit
     elif [ $ch -eq 2 ];then 
          cd $HOME
-         git clone https://github.com/noob-hackers/ighack
+         git clone https://github.com/KAAL-OP/ighack
          cd $HOME/insta-hack/ig_brute_force
          bash setup
          bash ighack.sh
