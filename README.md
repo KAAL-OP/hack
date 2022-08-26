@@ -30,9 +30,9 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/KAAL-OP/insta-hack`
+* `git clone https://github.com/KAAL-OP/hack`
 * `ls`
-* `cd insta-hack`
+* `cd hack`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `bash setup.sh`
@@ -43,9 +43,9 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `sudo apt install python`
 * `sudo apt install python2`
 * `sudo apt install git`
-* `git clone https://github.com/KAAL-OP/insta-hack`
+* `git clone https://github.com/KAAL-OP/hack`
 * `ls`
-* `cd insta-hack`
+* `cd hack`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `sudo bash insta-hack.sh`
