@@ -1,5 +1,4 @@
 #bin/bash
-#script By Noob Hackers
 #The real creator of core files is not us so the credits 
 #Goes to real author
 #colours
@@ -306,7 +305,7 @@ echo -e '\e[91m
                  ────▌──▐────
 '
 echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10
-echo -e "\e[93m             IAM FROM \e[92mNOOB HACKERS" | pv -qL 10
+echo -e "\e[93m             IAM FROM \e[92m HACKERS" | pv -qL 10
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
