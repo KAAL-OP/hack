@@ -83,7 +83,7 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf insta-hack
-        git clone https://github.com/IncredibleHacker/insta-hack
+        git clone https://github.com/KAAL-OP/insta-hack
         cd insta-hack
         bash insta-hack.sh
      
