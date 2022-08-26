@@ -17,7 +17,7 @@ apt-get install python
 apt-get install python2
 clear
 echo -e "$Purple Created By \e[1;34m"
-       figlet Incredible Hacker | lolcat
+       figlet Hacker | lolcat
 sleep 2.0
     echo -e " \e[96m  
                                      ████████ \e[0m"
@@ -33,7 +33,7 @@ figlet -f Bloody Insta-Hack | lolcat
 
     echo " "
     echo -e "$Red                                 ⫸ Coded by$Yellow faizan$Red ⫷\033[0m"
-    echo -e "$Red                               ⫸$Purple Incredible Hackers$Red ⫷\033[0m"
+    echo -e "$Red                               ⫸$Purple Hackers$Red ⫷\033[0m"
 echo " "
 echo -e " $Green     |---------------------------------------------------------------------|"
 echo -e " $Green     ||----------------------------$Cyan [features] $Green---------------------------||"
