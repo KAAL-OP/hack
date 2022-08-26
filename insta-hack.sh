@@ -69,7 +69,7 @@ echo " "
         
         exit
     elif [ $ch -eq 3 ];then
-        git clone https://github.com/Crevils/InstaReport
+        git clone https://github.com/KAAL-OP/InstaReport
         cd InstaReport
         pip install -r requirements.txt
         python ReportBot.py
